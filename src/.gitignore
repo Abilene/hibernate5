@@ -1,0 +1,15 @@
+# Intellij
+.idea
+*.ipr
+*.iws
+*.iml
+
+# Maven
+logs/
+log/
+logs/
+target/
+
+*.log
+*.*~
+/.gtm/
